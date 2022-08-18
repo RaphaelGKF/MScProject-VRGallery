@@ -6,6 +6,8 @@ University of Sussex.
 # Brief
 A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks. This Virtual environment is an innovative approach to digitise and enrich the presence and immersiveness of contemporary art. It serves as a way to deepen the connection between the artist, the significance of their creation, and the viewers interpretation of said creation.
 
+The Artists featured are pseudonyms and a mixture of my own name.
+
 # Controls
 - Use your VR Controller to navigate through 
   the scene.
