@@ -138,6 +138,7 @@ When the spheres touch another object, their colours change. You can shoot the s
 -	Jacob Banks - Unholy wars.
 -	Jay Z - Dead Presidents II.
 -	Kanye West - Come to Life.
+- Kanye West - Jail.
 -	Kendric Lamar - The Blacker The Berry.
 -	Kendrick Lamar - Sing About Me, I'm Dying of Thirst.
 -	Kendrick Lamar, SZA - All The Stars.
