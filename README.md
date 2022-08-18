@@ -90,13 +90,13 @@ When the spheres touch another object, their colours change. You can shoot the s
 ## Imported Materials/Textures: 
 -	Paper recycled 001 by [Katsukagi.](https://3dtextures.me/2019/01/07/paper-recycled-001/)
 -	Plaster Rough 001 by [Katsukagi.](https://3dtextures.me/2019/02/15/plaster-rough-001/)
--	Wallpaper Geometric 001 – [Katsukagi](https://3dtextures.me/2021/05/17/wallpaper-geometric-001/)
--	Wood Floor – [Katsukagi](https://3dtextures.me/2018/02/14/wood-floor-007/)
+-	Wallpaper Geometric 001 by [Katsukagi.](https://3dtextures.me/2021/05/17/wallpaper-geometric-001/)
+-	Wood Floor by [Katsukagi.](https://3dtextures.me/2018/02/14/wood-floor-007/)
 
 ## Imported Models/Prefabs:
--	Oculus Hands [Available online: https://developer.oculus.com/downloads/package/oculus-hand-models/?locale=en_GB]
--	HQ PBR Old Retro Radio. [Available online: https://assetstore.unity.com/packages/3d/props/hq-pbr-old-retro-radio-free-180303]
--	PBR Lamps [No longer available on Unity Store.]
+-	Oculus Hands [Available online](https://developer.oculus.com/downloads/package/oculus-hand-models/?locale=en_GB)
+-	HQ PBR Old Retro Radio. [Available online](https://assetstore.unity.com/packages/3d/props/hq-pbr-old-retro-radio-free-180303)
+-	PBR Lamps *No longer available on Unity Store.*
 
 ## Packages/Libraries Used:
 -	XR Interaction Toolkit.
