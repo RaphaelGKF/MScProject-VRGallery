@@ -87,3 +87,6 @@ Music Used:
 -	Solange – Don’t Touch My Hair.
 -	The 5th Dimension – Aquarius & Let the Sunshine In.
 
+* All other materials, models, images are the product of my own labour. *
+
+
