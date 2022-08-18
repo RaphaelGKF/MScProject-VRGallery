@@ -8,7 +8,7 @@
 # Brief
 A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks. This Virtual environment is an innovative approach to digitise and enrich the presence and immersiveness of contemporary art. It serves as a way to deepen the connection between the artist, the significance of their creation, and the viewers interpretation of said creation.
 
-The Artists featured are pseudonyms and a mixture of my own name.
+
 
 ## Build
 There are two build versions available to you: PC BUILD (Desktop) and VR BUILD (Oculus Quest 2).
@@ -57,8 +57,13 @@ Behind you will be the Creative Play Area, equipped with three creative tools; A
   your own artistic
   creation.
   
-  
 Feel free to carry these along with you throughout your experience. Note that what you create with them will not remain in the scene past 1 minute.
+
+## Featured Artists
+The Artists featured are pseudonyms and a mixture of my own name.
+- Kamel Adjei.
+- Lemarkk Eidja.
+- Raphael G.K. Frandore.
 
 ## Main Gallery
 In the main Gallery, You are exposed to three-dimensional paintings, view them from any angle and view it's depth. This is a new way of experiencing art.
@@ -120,10 +125,11 @@ When the spheres touch another object, their colours change. You can shoot the s
 -	Black Pumas – Colors.
 -	Burna Boy - Collateral Damage.
 -	Burna Boy - JA ARA E.
--	Calum Scott - Boys In The Street	.
+-	Calum Scott - Boys In The Street.
 -	Chilly Gonzales – Manifesto.
 -	Chilly Gonzales – Overnight.
 -	Dave – Black.
+-	Galantis - Runaway(U & I).
 -	Gil Scott Heron - The Revolution Will Not Be Televised.
 -	Hans Zimmer - Senzenina (South African folk song).
 -	Hozier - Take Me to Church.
