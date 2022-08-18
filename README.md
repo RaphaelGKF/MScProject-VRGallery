@@ -1,4 +1,4 @@
-# MSc Project VR Gallery
+# MSc Project - VR Gallery
 ##### Kamel D. Adjei
 ##### Candidate No : 244105
 ##### Computing with Digital Media.
