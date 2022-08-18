@@ -14,7 +14,7 @@ A virtual reality experience takes you into a gallery-like setting; where you ar
 There are two build versions available to you: PC BUILD (Desktop) and VR BUILD (Oculus Quest 2).
 #### OneDrive: [Link](https://universityofsussex-my.sharepoint.com/:f:/g/personal/ka479_sussex_ac_uk/Eu_3PnkhvmxOvACXpfeMEAoBVlmsbXR743SJoX882y12Cw?e=rQFZnV)
 #### Google Drive: [Link](https://drive.google.com/drive/folders/1jtNGwAadScEcXASKf5_0gF-zNzMbBFvx?usp=sharing)
-Note: As this project was designed primarily for VR Headsets, the desktop version of this project has restricted functionality and simply allows you to browse the scene rather than interact 
+***Note: As this project was designed primarily for VR Headsets, the desktop version of this project has restricted functionality and simply allows you to browse the scene rather than interact ***
 
 # Controls
 - Use your VR Controller to navigate through 
@@ -50,6 +50,7 @@ Behind you will be the Creative Play Area, equipped with three creative tools; A
 - Choose a color on the palette 
   by dipping your brush into the 
   spheres.
+  
 ### Cube Gun
 - Press and Hold the 
   trigger button to create 
@@ -57,7 +58,7 @@ Behind you will be the Creative Play Area, equipped with three creative tools; A
   your own artistic
   creation.
   
-Feel free to carry these along with you throughout your experience. Note that what you create with them will not remain in the scene past 1 minute.
+*** Feel free to carry these along with you throughout your experience. Note that what you create with them will not remain in the scene past 1 minute.***
 
 ## Featured Artists
 The Artists featured are pseudonyms and a mixture of my own name.
