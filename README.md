@@ -11,8 +11,8 @@ The Artists featured are pseudonyms and a mixture of my own name.
 
 # Build
 There are two build versions available to you: PC BUILD (Desktop) and VR BUILD (Oculus Quest 2).
-
-https://universityofsussex-my.sharepoint.com/:f:/r/personal/ka479_sussex_ac_uk/Documents/MScProject?csf=1&web=1&e=R4endE
+OneDrive: https://universityofsussex-my.sharepoint.com/:f:/g/personal/ka479_sussex_ac_uk/Eu_3PnkhvmxOvACXpfeMEAoBVlmsbXR743SJoX882y12Cw?e=rQFZnV
+Google Drive: https://drive.google.com/drive/folders/1jtNGwAadScEcXASKf5_0gF-zNzMbBFvx?usp=sharing
 Note: As this project was designed primarily for VR Headsets, the desktop version of this project has restricted functionality and simply allows you to browse the scene rather than interact 
 
 # Controls
@@ -28,7 +28,57 @@ Note: As this project was designed primarily for VR Headsets, the desktop versio
   with the right joystick.
 
 # Walkthrough Tutorial 
+Welcome
+When you spawn into the scene, you are greeted with a big welcome. On your left you will be able to see the controls and how to navigate throughout the scene. You will also see a quick brief and artworks featured in the gallery. 
+On your right will be the different sections in the gallery: Main gallery, Two Art Galleries and a 3D Music Visualizer Room. There is also a visual layout if you need visual help.
 
+Creative Play Area
+Behind you will be the Creative Play Area, equipped with three creative tools; A Bubble and Cube Generator gun, as well as a Brush and Paint Pallete.
+
+Bubble Gun
+- Press the trigger    
+  button and create
+  infinite bubbles.
+- Try popping the 
+  bubbles.
+  
+Brush and Paint Palette
+- Press the trigger button to 
+  paint with a Brush.
+- Choose a color on the palette 
+  by dipping your brush into the 
+  spheres.
+Cube Gun
+- Press and Hold the 
+  trigger button to create 
+  multiple cubes to make 
+  your own artistic
+  creation.
+  
+  
+Feel free to carry these along with you throughout your experience. Note that what you create with them will not remain in the scene past 1 minute.
+
+Main Gallery
+In the main Gallery, You are exposed to three-dimensional paintings, view them from any angle and view it's depth. This is a new way of experiencing art.
+
+At the center of the gallery, you can find the sculpture, Suzanne. This sculpture is always locked onto the sphere below it. Grab the sphere and she wont take her eyes off it. Throw it around and find out.
+The works displayed here were created using Gravity Sketch as 3D models.The main concept and source of inspiration was afrocentrism.. This style of art display offers a three-dimensional approach for viewing artworks from a variety of perspectives.
+
+The other section features photographs that have been digitally altered and photomerged in Adobe Photoshop.This provides a window into the author's thoughts; His view that all forms of artistic expression are interconnected.
+As well as, three sculptures you can interact with. try picking them up. You are allowed to do this unlike a real museum or art gallery.
+
+Art Gallery
+
+The Art Gallery section has someof the most impactful creations in this project. You are able to view these images----
+These artworks were created by myself, assisted by AI Generative algorithym, and Adobe Photoshop. influenced by vintage African art. Each of the paintings are accompanied by moving songs which can be heard when you approach the works. This will deepen the viewing experience and help the spectator understand the significance of the artwork.The theme of this section largely relies on the topic of freedom,
+justice and pride. The highlighted works are motivated by the impact of Black Culture in the music industry, Civil Rights, Pride and the BLM movement.
+Discover artists like Kanye West, Jacob Banks, and Michael Kiwanuka, whose ground-breaking music is paired with the artworks.
+
+3D Music Visualizer Experience
+Equipped with a radio and 13 musically responsive spheres. You have a choice of four tracks to play. The UI visible just below the radio allows you to control the song. Each sphere responds to the track's beat to a varied degree of intensity. 
+When the spheres touch another object, their colours change. You can shoot the spheres with an (anti-gravity) gun and play around in the environment,which you can use to shoot the spheres to change the colors. This enables you to experiment while fully engaging to the experience.
+
+Youtube Playlist: 
 
 
 * This world is best experienced with the use of headphones and a VR Headset *
