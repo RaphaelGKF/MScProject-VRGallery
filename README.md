@@ -96,7 +96,7 @@ When the spheres touch another object, their colours change. You can shoot the s
 ## Imported Models/Prefabs:
 -	Oculus Hands [Available online](https://developer.oculus.com/downloads/package/oculus-hand-models/?locale=en_GB)
 -	HQ PBR Old Retro Radio. [Available online](https://assetstore.unity.com/packages/3d/props/hq-pbr-old-retro-radio-free-180303)
--	PBR Lamps *No longer available on Unity Store.*
+-	PBR Lamps - *No longer available on Unity Store.*
 
 ## Packages/Libraries Used:
 -	XR Interaction Toolkit.
