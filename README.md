@@ -2,11 +2,18 @@
 Kamel D. Adjei - Candidate No : 244105
 Computing with Digital Media.
 University of Sussex.
+Email: ka479@sussex.ac.uk
 
 # Brief
 A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks. This Virtual environment is an innovative approach to digitise and enrich the presence and immersiveness of contemporary art. It serves as a way to deepen the connection between the artist, the significance of their creation, and the viewers interpretation of said creation.
 
 The Artists featured are pseudonyms and a mixture of my own name.
+
+# Build
+You have access to two build versions. One for the Oculus Quest 2 and one for the Desktop.
+
+https://universityofsussex-my.sharepoint.com/:f:/r/personal/ka479_sussex_ac_uk/Documents/MScProject?csf=1&web=1&e=R4endE
+Note: As this project was made primarily for VR Headsets, the Desktop version has limited functionality and you can only explore the environment rather than interact.
 
 # Controls
 - Use your VR Controller to navigate through 
