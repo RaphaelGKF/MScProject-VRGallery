@@ -147,6 +147,6 @@ When the spheres touch another object, their colours change. You can shoot the s
 -	Solange – Don’t Touch My Hair.
 -	The 5th Dimension – Aquarius & Let the Sunshine In.
 
-* All other materials, models, images are the product of my own labour. *
+* All other materials, models, images are the product of my own labour. *[^1]
 
 
