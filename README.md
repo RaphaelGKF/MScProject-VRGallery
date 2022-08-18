@@ -10,10 +10,10 @@ A virtual reality experience takes you into a gallery-like setting; where you ar
 The Artists featured are pseudonyms and a mixture of my own name.
 
 # Build
-You have access to two build versions. One for the Oculus Quest 2 and one for the Desktop.
+There are two build versions available to you: PC BUILD (Desktop) and VR BUILD (Oculus Quest 2).
 
 https://universityofsussex-my.sharepoint.com/:f:/r/personal/ka479_sussex_ac_uk/Documents/MScProject?csf=1&web=1&e=R4endE
-Note: As this project was made primarily for VR Headsets, the Desktop version has limited functionality and you can only explore the environment rather than interact.
+Note: As this project was designed primarily for VR Headsets, the desktop version of this project has restricted functionality and simply allows you to browse the scene rather than interact 
 
 # Controls
 - Use your VR Controller to navigate through 
