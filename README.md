@@ -87,11 +87,11 @@ When the spheres touch another object, their colours change. You can shoot the s
 
 
 # Assets Used:
-## Imported Materials: 
--	Paper recycled 001 by Katsukagi. [Available online at : https://3dtextures.me/2019/01/07/paper-recycled-001/]
--	Plaster Rough 001 by Katsukagi. [Available online at : https://3dtextures.me/2019/02/15/plaster-rough-001/]
--	Wallpaper Geometric 001 – Katsukagi. [Available online at : https://3dtextures.me/2021/05/17/wallpaper-geometric-001/]
--	Wood Floor – Katsukagi. [Available online at : https://3dtextures.me/2018/02/14/wood-floor-007/]
+## Imported Materials/Textures: 
+-	Paper recycled 001 by [Katsukagi.](https://3dtextures.me/2019/01/07/paper-recycled-001/)
+-	Plaster Rough 001 by [Katsukagi.](https://3dtextures.me/2019/02/15/plaster-rough-001/)
+-	Wallpaper Geometric 001 – [Katsukagi](https://3dtextures.me/2021/05/17/wallpaper-geometric-001/)
+-	Wood Floor – [Katsukagi](https://3dtextures.me/2018/02/14/wood-floor-007/)
 
 ## Imported Models/Prefabs:
 -	Oculus Hands [Available online: https://developer.oculus.com/downloads/package/oculus-hand-models/?locale=en_GB]
@@ -107,10 +107,10 @@ When the spheres touch another object, their colours change. You can shoot the s
 -	Oculus XR Plugin.
 
 ## SFX Used:
--	Bubble Pop Sound Effect. [Available Online: https://www.youtube.com/watch?v=yyZBsdWjpQQ]
+-	Bubble Pop [Sound Effect](https://www.youtube.com/watch?v=yyZBsdWjpQQ)
 
 ## Desktop Build Asset:
--	Simple Camera Controller [Available online - https://assetstore.unity.com/packages/tools/camera/simple-camera-controller-159957]
+-	Simple Camera Controller [Unity Asset Store](https://assetstore.unity.com/packages/tools/camera/simple-camera-controller-159957)
 
 
 ## Music Used:
