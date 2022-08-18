@@ -3,14 +3,29 @@ Kamel D. Adjei - Candidate No : 244105
 Computing with Digital Media.
 University of Sussex.
 
-#Brief
-A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks.
+# Brief
+A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks. This Virtual environment is an innovative approach to digitise and enrich the presence and immersiveness of contemporary art. It serves as a way to deepen the connection between the artist, the significance of their creation, and the viewers interpretation of said creation.
 
-#Controls
-#Tutorial Walkthrough
+# Controls
+- Use your VR Controller to navigate through 
+  the scene.
+- Interact directly with grabbable objects aided 
+  by haptic feedback.
+- Use the pointer on the right hand controller 
+  to grab an object towards your direction.
+- Use the pointer to interact with the UI buttons.
+  (Interactable objects turn the pointer white)
+- Move around using the left joystick and turn 
+  with the right joystick.
+
+# Walkthrough Tutorial 
 
 
-#Assets Used:
+
+* This world is best experienced with the use of headphones and a VR Headset *
+
+
+# Assets Used:
 Imported Materials: 
 -	Paper recycled 001 by Katsukagi. [Available online at : https://3dtextures.me/2019/01/07/paper-recycled-001/]
 -	Plaster Rough 001 by Katsukagi. [Available online at : https://3dtextures.me/2019/02/15/plaster-rough-001/]
