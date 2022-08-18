@@ -1,0 +1,572 @@
+
+newmtl StandardAF0E24
+Kd  0.6862745 0.05490196 0.1411765
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard2F2D45
+Kd  0.1843137 0.1764706 0.2705882
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard192D17
+Kd  0.09803922 0.1764706 0.09019608
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard26496C
+Kd  0.1490196 0.2862745 0.4235294
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard030505
+Kd  0.01176471 0.01960784 0.01960784
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardAD362D
+Kd  0.6784314 0.2117647 0.1764706
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC17236
+Kd  0.7568628 0.4470588 0.2117647
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardD02024
+Kd  0.8156863 0.1254902 0.1411765
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard6881E2
+Kd  0.4078431 0.5058824 0.8862745
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard7982C8
+Kd  0.4745098 0.509804 0.7843137
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard24A3C2
+Kd  0.1411765 0.6392157 0.7607843
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard14062A
+Kd  0.07843138 0.02352941 0.1647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard41717F
+Kd  0.254902 0.4431373 0.4980392
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard234164
+Kd  0.1372549 0.254902 0.3921569
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard121D30
+Kd  0.07058824 0.1137255 0.1882353
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard0F1C40
+Kd  0.05882353 0.1098039 0.2509804
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard000000
+Kd  0 0 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard154A90
+Kd  0.08235294 0.2901961 0.5647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard009F9F
+Kd  0 0.6235294 0.6235294
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard06415D
+Kd  0.02352941 0.254902 0.3647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC7C7C7
+Kd  0.7803922 0.7803922 0.7803922
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard82C8C2
+Kd  0.509804 0.7843137 0.7607843
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard2C6B85
+Kd  0.172549 0.4196078 0.5215687
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard11304A
+Kd  0.06666667 0.1882353 0.2901961
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardFFEEDE
+Kd  1 0.9333333 0.8705882
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard92374B
+Kd  0.572549 0.2156863 0.2941177
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardD55D46
+Kd  0.8352941 0.3647059 0.2745098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard002049
+Kd  0 0.1254902 0.2862745
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard223553
+Kd  0.1333333 0.2078431 0.3254902
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard0C1324
+Kd  0.04705882 0.07450981 0.1411765
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardA1A594
+Kd  0.6313726 0.6470588 0.5803922
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC5B48C
+Kd  0.772549 0.7058824 0.5490196
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard272D66
+Kd  0.1529412 0.1764706 0.4
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard33397A
+Kd  0.2 0.2235294 0.4784314
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard0E1445
+Kd  0.05490196 0.07843138 0.2705882
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard2F4873
+Kd  0.1843137 0.282353 0.4509804
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard24375D
+Kd  0.1411765 0.2156863 0.3647059
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard0D1D1B
+Kd  0.05098039 0.1137255 0.1058824
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard226F7C
+Kd  0.1333333 0.4352941 0.4862745
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardFF301C
+Kd  1 0.1882353 0.1098039
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardCD8200
+Kd  0.8039216 0.509804 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardC13C00
+Kd  0.7568628 0.2352941 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardA71634
+Kd  0.654902 0.08627451 0.2039216
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard234C73
+Kd  0.1372549 0.2980392 0.4509804
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard82A9C7
+Kd  0.509804 0.6627451 0.7803922
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardF9693D
+Kd  0.9764706 0.4117647 0.2392157
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardB13221
+Kd  0.6941177 0.1960784 0.1294118
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardAE1812
+Kd  0.682353 0.09411765 0.07058824
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardA3172F
+Kd  0.6392157 0.09019608 0.1843137
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl StandardBF0004
+Kd  0.7490196 0 0.01568628
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard9D4758
+Kd  0.6156863 0.2784314 0.345098
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard0D1021
+Kd  0.05098039 0.0627451 0.1294118
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+

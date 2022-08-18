@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79cc1bf3c504d124aaae91211a42b5e8, type: 3}
+  m_Name: ArtInf3 5
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: bab530c7fa94a5e438fd8e639a8a65a8, type: 3}
+  title: INJUSTICE.
+  artist: Raphael G.K Frandore
+  description: This art piece was inspired by the BLM protests of 2020 highlighting
+    racial discrimination in the US justice system.
+  songname: SING ABOUT ME, I'M DYING OF THIRST - KENDRIC LAMAR.

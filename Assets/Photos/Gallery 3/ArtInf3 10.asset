@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79cc1bf3c504d124aaae91211a42b5e8, type: 3}
+  m_Name: ArtInf3 10
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: 5c3a45907e1b57f4aa2dbc2f59b5943b, type: 3}
+  title: '"NO JUSTICE, NO PEACE".'
+  artist: Raphael G.K Frandore
+  description: This art piece was inspired by the BLM protests of 2020.
+  songname: THE REVOLUTION WILL NOT BE TELEVISED - GIL SCOTT HERON

@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VR ART GALLERY.unity
+    guid: 2c250268c5744c94e9ab79f21369a9d8
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9467d02728fcb34458e5d46472d4d9b6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 915773b1fb4ba8d4098334d900a6d021, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8ea6e84d7368a98479b452eb75147e7c, type: 2}

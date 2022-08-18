@@ -1,0 +1,22 @@
+
+newmtl Standard222121
+Kd  0.1333333 0.1294118 0.1294118
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
+
+newmtl Standard000000
+Kd  0 0 0
+Ks  0 0 0
+Ka  0 0 0
+d  1
+Ns  0
+illum 2
+
+
+
