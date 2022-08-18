@@ -1,8 +1,9 @@
 # MscProject-VRGallery
-Kamel D. Adjei - Candidate No : 244105
-Computing with Digital Media.
-University of Sussex.
-Email: ka479@sussex.ac.uk
+##### Kamel D. Adjei
+##### Candidate No : 244105
+##### Computing with Digital Media.
+##### University of Sussex.
+##### Email: ka479@sussex.ac.uk
 
 # Brief
 A virtual reality experience takes you into a gallery-like setting; where you are free to interact and submerge yourself in the artworks. This Virtual environment is an innovative approach to digitise and enrich the presence and immersiveness of contemporary art. It serves as a way to deepen the connection between the artist, the significance of their creation, and the viewers interpretation of said creation.
