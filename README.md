@@ -76,6 +76,7 @@ The other section features photographs that have been digitally altered and phot
 As well as, three sculptures you can interact with. try picking them up. You are allowed to do this unlike a real museum or art gallery.
 
 ## Art Gallery
+Art Exhibits are some of the principal ways in which artists communicate their ideas, concepts and messages in their artwork.  
 
 The Art Gallery section has some of the most impactful creations in this project. You are able to view these images----
 These artworks were created by myself, assisted by AI Generative algorithym, and Adobe Photoshop. influenced by vintage African art. Each of the paintings are accompanied by moving songs which can be heard when you approach the works. This will deepen the viewing experience and help the spectator understand the significance of the artwork.The theme of this section largely relies on the topic of freedom,
