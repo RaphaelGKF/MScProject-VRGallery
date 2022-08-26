@@ -87,7 +87,7 @@ Discover artists like Kanye West, Jacob Banks, and Michael Kiwanuka, whose groun
 Equipped with a radio and 13 musically responsive spheres. You have a choice of four tracks to play. The UI visible just below the radio allows you to control the song. Each sphere responds to the track's beat to a varied degree of intensity. 
 When the spheres touch another object, their colours change. You can shoot the spheres with an (anti-gravity) gun and play around in the environment,which you can use to shoot the spheres to change the colors. This enables you to experiment while fully engaging to the experience.
 
-[Youtube Playlist](www.google.com)
+[Youtube Playlist](https://youtube.com/playlist?list=PLHvkJkw0fgt_UTNoDMJE5R8qL0cRSjVJs)
 
 
 *This world is best experienced with the use of headphones and a VR Headset*.
