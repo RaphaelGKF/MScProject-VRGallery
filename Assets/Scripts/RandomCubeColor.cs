@@ -8,9 +8,8 @@ public class RandomCubeColor : MonoBehaviour
 
     void Start()
     {
-        //Get random Color for every cube generated
+        // Get random Color for every cube generated
         gameObject.GetComponent<MeshRenderer>().material.color = new 
             Color(Random.Range(0, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f), 1f);
-        //  CubePrefab.GetComponent<MeshRenderer>().sharedMaterial.color = new Color(Random.Range(0, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f), 1f);
     }
 }

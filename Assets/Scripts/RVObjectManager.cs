@@ -15,7 +15,6 @@ public class RVObjectManager : MonoBehaviour
     Vector3 originalPos, originalScale;
     Rigidbody rb;
 
-
     // Start is called before the first frame update
     private void Start()
     {
@@ -36,8 +35,6 @@ public class RVObjectManager : MonoBehaviour
 
         // Set new emissive material color and intensity
         emissiveMaterial.SetColor("_EmissionColor", color * intensityRange);
-
-        // Debug.Log("intensityRange is " + intensityRange);
     }
 
 

@@ -3,6 +3,7 @@ using UnityEngine.XR.Management;
 
 public class DetectVR : MonoBehaviour
 {
+    // Switch Between VR and First Player
     [SerializeField] private bool startinVR = true;
     [SerializeField] private GameObject xrOrigin;
     [SerializeField] private GameObject testPlayer;

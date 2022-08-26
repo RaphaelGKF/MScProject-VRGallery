@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ChangeTipColor : MonoBehaviour
-    
+    // Change Line Color
 {
     public Material newMaterial;
 
     private void OnTriggerEnter(Collider other)
     {
-            //Change Line Color
+            //Send message to public void setlinematerial to assign the new material
             other.SendMessageUpwards("SetLineMaterial", newMaterial, SendMessageOptions.DontRequireReceiver);
     }
 }

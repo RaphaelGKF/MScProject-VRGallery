@@ -12,7 +12,7 @@ public class RadioController : MonoBehaviour
     [SerializeField] private Track[] audioTracks; // List of tracks to play
     [SerializeField] private float musicVolume = 1f;
     private AudioSource AudioSource;
-    private int trackIndex; // Control - to identify what track is playing
+    private int trackIndex; // Identify what track is playing
 
     [Header("Text UI")]
     [SerializeField] private TMP_Text trackTextUI;
@@ -33,7 +33,7 @@ public class RadioController : MonoBehaviour
 
     // MAIN CONTROLS: PLAY, PAUSE , STOP
 
-    // Play or Unpause Audio
+    // Play Audio
     public void PlayAudio()
     {
         AudioSource.Play();
@@ -93,8 +93,6 @@ public class RadioController : MonoBehaviour
     void Update()
     {
         // Update audio volume by music volume which will be controlled by the slider
-
         AudioSource.volume = musicVolume;
-
     }
 }

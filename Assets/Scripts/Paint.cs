@@ -7,21 +7,19 @@ using UnityEngine.InputSystem;
 
 public class Paint : MonoBehaviour
 {
+    // PAINT
     [SerializeField] InputActionAsset playerControls;
     [SerializeField] Transform drawPositionSource;
     [SerializeField] Material lineMaterial;
     [SerializeField] Material brushHead;
     InputAction trigger;
     public float lineWidth = 0.03f;
-    public float distanceThreshold = 0.05f; // min thresh for creating another line segment
+    public float distanceThreshold = 0.05f; // Minimum threshold for creating another line segment
     private List<Vector3> currentLinePositions = new();
     private bool triggerDown = false;
     private bool isDrawing = false;
     private LineRenderer currentLine;
     private AudioSource drawSound;
-
-
-
 
     // Start is called before the first frame update
     void Start()
@@ -33,7 +31,6 @@ public class Paint : MonoBehaviour
         trigger.Enable();
 
         drawSound = GetComponent<AudioSource>();
-
     }
 
 
@@ -51,43 +48,40 @@ public class Paint : MonoBehaviour
     }
 
 
-
     // Draw Line
     public void StartDrawing()
     {
         isDrawing = true;
-        //Create Line/Stroke
-        GameObject lineGameObject = new("Line");
+
+        // Create Line/Stroke
+        GameObject lineGameObject = new("Line"); 
         currentLine = lineGameObject.AddComponent<LineRenderer>();
-        drawSound.Play();
+
         UpdateLine();
+        // Play Draw sound
+        drawSound.Play(); 
 
         // Destroy brush stroke after 1 minute
         GameObject.Destroy(lineGameObject, 60f);
     }
-
-    //Update Line
+    
+    // Update Line
     void UpdateLine()
     {
-        //Update Line Position
-        currentLinePositions.Add(drawPositionSource.position);//Source of the Position
+        // Update Line Position
+        currentLinePositions.Add(drawPositionSource.position);//First line position
         currentLine.positionCount = currentLinePositions.Count;// Current number of position
-        currentLine.SetPositions(currentLinePositions.ToArray());//Set position
+        currentLine.SetPositions(currentLinePositions.ToArray());//Set position from input
 
-
-        //update line visual
+        // Update line visual
         currentLine.material = lineMaterial;
         currentLine.startWidth = lineWidth;
-
-
-
-
     }
 
     public void StopDrawing()
     {
         isDrawing = false;
-        //Clear line data positions
+        // Remove line and clear line data positions
         currentLinePositions.Clear();
         currentLine = null;
 
@@ -96,14 +90,16 @@ public class Paint : MonoBehaviour
 
     void UpdateDrawing()
     {
-        //Check if we have a line
+        // Check if we have a line : checking for any points in the position list
         if (!currentLine 
             || currentLinePositions.Count == 0)
         {
             return;
         }
 
-        Vector3 lastSetPosition = currentLinePositions[currentLinePositions.Count - 1];
+        Vector3 lastSetPosition = currentLinePositions[currentLinePositions.Count - 1]; // Access the last element on the list.
+        
+        // Call the function if the last position, and source position is greater than the distance threshold
         if (Vector3.Distance(lastSetPosition, drawPositionSource.position) > distanceThreshold)
         {
             UpdateLine();
@@ -111,7 +107,7 @@ public class Paint : MonoBehaviour
     }
 
 
-    //Trigger Pressed?
+    // Trigger Pressed?
     void OnTriggerPressed(InputAction.CallbackContext context)
     {
         triggerDown = true;

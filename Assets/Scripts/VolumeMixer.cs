@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class VolumeMixer : MonoBehaviour
 {
+    // VOLUME MIXER SCRIPT FOR ART GALLERY SECTION
+
     [SerializeField] private float musicVolume = 1f;
     public AudioSource AudioSource;
 
@@ -11,9 +13,7 @@ public class VolumeMixer : MonoBehaviour
     void Update()
     {
     // Update audio volume by music volume which will be controlled by the slider
-
         AudioSource.volume = musicVolume;
-
     }
 
     // Update volume from slider

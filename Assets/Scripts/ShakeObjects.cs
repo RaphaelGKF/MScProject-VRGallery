@@ -21,17 +21,14 @@ public class ShakeObjects : MonoBehaviour
 
     void MakeObjectsReact()
     {
-        // For every object in the list above, 
-        // Modify it's scale according to the frequency spectrum data
+        // For every object in the list above, Change it's scale according to the frequency spectrum data
         foreach (Transform obj in Base)
         {
             obj.localScale = Vector3.Lerp(obj.localScale, new Vector3(AudioVisualizer.instance.GetFrequencies(0, 7, 10), AudioVisualizer.instance.GetFrequencies(0, 7, 10), AudioVisualizer.instance.GetFrequencies(0, 7, 10)), speed);
-            //obj.localRotation = Quaternion.Lerp(obj.localRotation, new Quaternion((Random.Range(0,360)), (Random.Range(0, 360)), (Random.Range(0, 360)), (Random.Range(0, 360))),speed); //ROTATE
         }
         foreach (Transform obj in LowMids)
         {
             obj.localScale = Vector3.Lerp(obj.localScale, new Vector3(AudioVisualizer.instance.GetFrequencies(7, 15, 100), AudioVisualizer.instance.GetFrequencies(7, 15, 100), AudioVisualizer.instance.GetFrequencies(7, 15, 100)), speed);
-            //obj.localScale = Vector3.Lerp(obj.localScale, new Vector3(1, AudioVisualizer.instance.GetFrequencies(7, 15, 100), 1), speed);
         }
         foreach (Transform obj in MidRange)
         {

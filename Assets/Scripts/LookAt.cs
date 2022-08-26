@@ -4,13 +4,15 @@ using UnityEngine;
 
 public class LookAt : MonoBehaviour
 {
-    public Transform target; // Set Target
+    // FOLLOW TARGET SCRIPT: SUZANNE
+
+    public Transform target; // Set Target: Sphere
 
     // Update is called once per frame
     void Update()
     {
         Vector3 direction = target.position - transform.position; // Find Direction
-        Quaternion rotation = Quaternion.LookRotation(direction);
-        transform.rotation = rotation; // Direction
+        Quaternion rotation = Quaternion.LookRotation(direction); // Rotation Change
+        transform.rotation = rotation; 
     }
 }

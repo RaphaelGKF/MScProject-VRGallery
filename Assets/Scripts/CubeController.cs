@@ -6,6 +6,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 
 public class CubeController : MonoBehaviour
 {
+    //CUBE OBJECT GENERATOR
     [SerializeField] private GameObject Gun;
     [SerializeField] private Transform movementSource;// Position of the motion
     [SerializeField] private float newPositionThresholdDistance = 0.05f;
@@ -25,7 +26,7 @@ public class CubeController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //Locating the input for Activate on the controller
+        // Locating the input for Activate on the controller
         var gamePlayActionMap = playerControls.FindActionMap("XRI Righthand Interaction");
         trigger = gamePlayActionMap.FindAction("Activate");
         trigger.performed += OnTriggerPressed;
@@ -39,7 +40,7 @@ public class CubeController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //Continue Movement
+        // Continue Movement
         if (isMoving && triggerDown)
             {
                 UpdateMovement();
@@ -49,35 +50,38 @@ public class CubeController : MonoBehaviour
     public void StartMovement()
     {
         isMoving = true;
-        positionsList.Clear(); //Clear the position list 
+
+        positionsList.Clear(); // Clear the position list 
         positionsList.Add(movementSource.position);
         if (CubePrefab && Gun)
         {
             Destroy(
                 Instantiate(CubePrefab, movementSource.position, Quaternion.identity), 
-                10); //Destroy creations after 10 seconds
-            generateSound.Play();
-        }
+                10); // Destroy creations after 10 seconds
 
+            generateSound.Play(); // Play Sound
+        }
     }
 
+    // For ANTI-FLOAT Gravity Gun.
     public void PushMovement()
     {
         isMoving = true;
-        positionsList.Clear(); //Clear the position list 
+
+        positionsList.Clear(); // Clear the position list 
         positionsList.Add(movementSource.position);
         if (CubePrefab && Gun)
         {
             Destroy(
                 spawnMe = Instantiate(CubePrefab, movementSource.position, Quaternion.identity)
-                , 10); //Destroy creations after 10 seconds
+                , 10); // Destroy creations after 10 seconds
+
             rb = spawnMe.GetComponent<Rigidbody>();
             rb.AddForce(movementSource.forward * addedForce, ForceMode.Impulse);
-            generateSound.Play();
+
+            generateSound.Play();// Play Sound
         }
-
     }
-
 
     public void EndMovement()
     {

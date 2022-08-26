@@ -5,6 +5,7 @@ using TMPro;
 
 public class ArtInfoLarge : MonoBehaviour
 {
+    // ART INFO LARGE
     [SerializeField] private ArtInfoData artInfo;
     [SerializeField] private GameObject image;
     [SerializeField] private TMP_Text title;

@@ -17,7 +17,7 @@ public class DisplayPanel : MonoBehaviour
     }
 
 
-    //When the button is pressed on the info display, call the showmixer function
+    // When the button is pressed on the info display, call the showmixer function
     public void ButtonPressed(InputAction.CallbackContext context)
     {
         if (context.performed)
@@ -42,6 +42,4 @@ public class DisplayPanel : MonoBehaviour
             activePanel = true;
         }
     }
-
-
 }
