@@ -13,7 +13,7 @@ A virtual reality experience takes you into a gallery-like setting; where you ar
 ## Build
 There are two build versions available to you: PC BUILD (Desktop) and VR BUILD (Oculus Quest 2).
 #### OneDrive: [Link](https://universityofsussex-my.sharepoint.com/:f:/g/personal/ka479_sussex_ac_uk/EpSrHiRYJ5NAjkZ6-V2SQ80B0n8v2uDXMEYngKxP30kCOA?e=Xlydvv)
-#### Google Drive: [Link]( )
+#### Google Drive: [Link](https://drive.google.com/drive/folders/1qLVpFXPZAxsqDJctAj7Ds5y2A0g3ja-U?usp=sharing)
 ***Note: As this project was designed primarily for VR Headsets, the desktop version of this project has restricted functionality and simply allows you to browse the scene rather than interact ***
 
 # Controls
